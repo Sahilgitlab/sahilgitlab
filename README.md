@@ -79,13 +79,6 @@ https://pypi.org/project/vectorquant/
 
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilgitlab&theme=algolia&row=1&column=7"/>
-</p>
 
 ---
 
@@ -93,15 +86,20 @@ https://pypi.org/project/vectorquant/
 
 <p align="center">
 
-<a href="https://twitter.com/sahilgu98015764">
-<img src="https://img.shields.io/twitter/follow/sahilgu98015764?logo=twitter&style=for-the-badge"/>
+<a href="https://twitter.com/sahilgu98015764" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-@sahilgu98015764-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/sahilg007">
-<img src="https://img.shields.io/badge/LinkedIn-Sahil%20Gupta-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/sahilg007" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Sahil%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sahilgitlab" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-sahilgitlab-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
@@ -144,12 +142,5 @@ https://pypi.org/project/vectorquant/
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sahilgitlab/sahilgitlab/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ⭐️ From **Sahil Gupta**
