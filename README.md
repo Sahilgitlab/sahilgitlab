@@ -7,6 +7,15 @@
 </p>
 
 <p align="center">
+<img src="https://media.tenor.com/3zG5Cj7N6jAAAAAC/goku-dragon-ball.gif" width="350">
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+I'm+Sahil+Gupta;AI+Engineer+⚡;LLMs+%7C+RAG+%7C+AI+Automation;Python+FastAPI+React;Building+Scalable+AI+Systems"/>
+</p>
+
+<p align="center">
 <img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif" width="350">
 </p>
 
