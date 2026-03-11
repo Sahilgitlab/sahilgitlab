@@ -10,15 +10,6 @@
 <img src="https://media.tenor.com/3zG5Cj7N6jAAAAAC/goku-dragon-ball.gif" width="350">
 </p>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+I'm+Sahil+Gupta;AI+Engineer+⚡;LLMs+%7C+RAG+%7C+AI+Automation;Python+FastAPI+React;Building+Scalable+AI+Systems"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif" width="350">
-</p>
-
 <h3 align="center">
 AI Engineer | LLMs • RAG • AI Automation  
 Python • FastAPI • Gemini API • React  
@@ -110,23 +101,14 @@ https://pypi.org/project/vectorquant/
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
-
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
 
 </p>
