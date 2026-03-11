@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+I'm+Sahil+Gupta;AI+Engineer+⚡;LLMs+%7C+RAG+%7C+AI+Automation;Python+FastAPI+React;Building+Scalable+AI+Systems"/>
-
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif" width="350">
 </p>
 
 <h3 align="center">
@@ -27,9 +25,9 @@ Building Scalable AI Systems 🚀
 # 🧠 About Me
 
 * 💬 Ask me about **LLMs, RAG, AI Automation**
-* 🤖 Building **AI-powered systems and intelligent automation**
-* 📦 Creator of **VectorQuant — Python ML Library**
-* ⚡ Passionate about **AI infrastructure & scalable backend systems**
+* 🤖 Building **AI-powered systems and scalable backend architectures**
+* 📦 Creator of **VectorQuant – Python ML Library**
+* ⚡ Working with **Python, FastAPI, React, and modern AI frameworks**
 
 ---
 
@@ -37,7 +35,7 @@ Building Scalable AI Systems 🚀
 
 ## VectorQuant
 
-A Python library for **Vector Quantization and clustering** designed for machine learning pipelines.
+A Python library for **Vector Quantization and clustering** used in ML pipelines and data compression.
 
 ### Install
 
@@ -60,7 +58,6 @@ decoded = vq.decode(compressed)
 ```
 
 PyPI Page
-
 https://pypi.org/project/vectorquant/
 
 <p align="center">
@@ -78,9 +75,7 @@ https://pypi.org/project/vectorquant/
 # 🏆 GitHub Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=sahilgitlab&theme=algolia&row=1&column=7"/>
-
 </p>
 
 ---
@@ -106,14 +101,23 @@ https://pypi.org/project/vectorquant/
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
 
 </p>
@@ -143,9 +147,7 @@ https://pypi.org/project/vectorquant/
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/sahilgitlab/sahilgitlab/output/github-contribution-grid-snake.svg">
-
 </p>
 
 ---
