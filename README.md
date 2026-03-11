@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+I'm+Sahil+Gupta;AI+Engineer+⚡;LLMs+%7C+RAG+%7C+AI+Automation;Python+FastAPI+React;Building+Scalable+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+I'm+Sahil+Gupta;AI+Engineer+•+Data+Scientist;Quant+Research+Enthusiast;LLMs+•+RAG+•+AI+Automation;Python+FastAPI+React;Building+AI+and+Data+Systems"/>
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/3zG5Cj7N6jAAAAAC/goku-dragon-ball.gif" width="350">
+<img src="https://media.tenor.com/3zG5Cj7N6jAAAAAC/goku-dragon-ball.gif" width="320">
 </p>
 
 <h3 align="center">
-AI Engineer | LLMs • RAG • AI Automation  
-Python • FastAPI • Gemini API • React  
-Building Scalable AI Systems 🚀
+AI Engineer • Data Scientist • Quant Research Enthusiast  
+LLMs • RAG • AI Automation • Python • FastAPI • React  
+Building Scalable AI & Data Systems 🚀
 </h3>
 
 <p align="center">
@@ -24,10 +24,21 @@ Building Scalable AI Systems 🚀
 
 # 🧠 About Me
 
-* 💬 Ask me about **LLMs, RAG, AI Automation**
-* 🤖 Building **AI-powered systems and scalable backend architectures**
+* 🤖 AI Engineer working on **LLMs, RAG systems, and AI Automation**
+* 📊 Passionate about **Data Science, Machine Learning, and Analytics**
+* 📈 Interested in **Quantitative Research and Financial ML**
 * 📦 Creator of **VectorQuant – Python ML Library**
-* ⚡ Working with **Python, FastAPI, React, and modern AI frameworks**
+* ⚡ Building scalable systems using **Python, FastAPI, and modern AI frameworks**
+
+---
+
+# 📊 Interests
+
+* Quantitative Finance
+* Financial Machine Learning
+* Algorithmic Trading
+* Statistical Modeling
+* AI for Financial Markets
 
 ---
 
@@ -35,7 +46,7 @@ Building Scalable AI Systems 🚀
 
 ## VectorQuant
 
-A Python library for **Vector Quantization and clustering** used in ML pipelines and data compression.
+A Python library for **Vector Quantization and clustering** designed for machine learning pipelines and data compression.
 
 ### Install
 
@@ -63,9 +74,7 @@ https://pypi.org/project/vectorquant/
 <p align="center">
 
 <img src="https://img.shields.io/pypi/v/vectorquant?label=PyPI&color=orange"/>
-
 <img src="https://img.shields.io/pypi/dm/vectorquant?label=Downloads"/>
-
 <img src="https://img.shields.io/pypi/pyversions/vectorquant"/>
 
 </p>
